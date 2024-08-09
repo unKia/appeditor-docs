@@ -1,4 +1,4 @@
-import { hopeTheme } from "vuepress-theme-hope";
+import { hopeTheme } from "vuepress-theme-default";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 import {LocaleConfig} from "@vuepress/core";

@@ -1,4 +1,4 @@
-import { sidebar } from "vuepress-theme-hope";
+import { sidebar } from "vuepress-theme-default";
 
 export default sidebar({
   //'/':'structure',

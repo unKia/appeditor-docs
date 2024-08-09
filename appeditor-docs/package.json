@@ -1,7 +1,7 @@
 {
-  "name": "appeditor-docs",
-  "version": "1.0.0",
-  "description": "appeditor learning",
+  "name": "my-vuepress-site",
+  "version": "0.0.1",
+  "description": "A VuePress project",
   "license": "MIT",
   "type": "module",
   "scripts": {
