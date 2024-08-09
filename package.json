@@ -1,0 +1,26 @@
+{
+  "name": "appeditor-docs",
+  "version": "1.0.0",
+  "description": "appeditor learning",
+  "main": "index.js",
+  "author": "Meysam Gholami",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-rc.0",
+    "@vuepress/plugin-search": "^2.0.0-rc.0",
+    "vue": "^3.4.1",
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-hope": "2.0.0-rc.10"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "docs:build": "vuepress build docs",
+    "docs:clean-dev": "vuepress dev docs --clean-cache",
+    "docs:dev": "vuepress dev docs",
+    "docs:update-package": "npx vp-update"
+  },
+  "dependencies": {
+    "@mdit-vue/plugin-toc": "^2.0.0"
+  }
+}
