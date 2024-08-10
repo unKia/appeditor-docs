@@ -24,6 +24,10 @@
 <img :src="$withBase('/page-design/Screenshot.png')" class="zoom">
 </div>
 
+<div style="text-align: center">
+<img :src="$withBase('/page-design/test.gif')" class="zoom">
+</div>
+
 در تصویر زیر انواع چیدمان گروه را می‌توانید مشاهده نمایید:
   
 <div style="text-align: center">
