@@ -49,7 +49,7 @@ export default hopeTheme({
   rtl:true,
   copyright:'کلیه حقوق محفوظ است',
   //footer: "راهنمای اپ‌ادیتور",
-  displayFooter: true,
+  displayFooter: false,
   encrypt: {
     config: {
       "/demo/encrypt.html": ["1234"],
