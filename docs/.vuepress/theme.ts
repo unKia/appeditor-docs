@@ -65,6 +65,21 @@ export default hopeTheme({
   },*/
   plugins: {
 
+    notice: [
+      {
+        path: "/",
+        title: "Notice Title",
+        content: "Notice Content",
+        actions: [
+          {
+            text: "Primary Action",
+            link: "https://theme-hope.vuejs.press/",
+            type: "primary",
+          },
+          { text: "Default Action" },
+        ],
+      },],
+
     copyCode: {
       showInMobile:true
     },
