@@ -18,6 +18,9 @@ export default hopeTheme({
 
   //repo: "vuepress-theme-hope/vuepress-theme-hope",
 
+  lastUpdated: false,
+  contributors: false,
+
   docsDir: "src",
   headerDepth:4,
   //toc:false,
