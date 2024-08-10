@@ -4,6 +4,7 @@ heroImage: logo.svg
 actionText: ورود به راهنما
 actionLink: /introduction
 heroText: راهنمای اپ‌ادیتور
+heroText: 'خانه'
 tagline: ساخت اپلیکیشن بدون نیاز به برنامه نویسی
 actions:
 - text: ورود به راهنما
@@ -18,4 +19,3 @@ features:
   - title: Performant
     details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
 ---
-# خانه
