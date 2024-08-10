@@ -5,7 +5,7 @@ import {LocaleConfig} from "@vuepress/core";
 import { readingTimePlugin } from "vuepress-plugin-reading-time2";
 
 export default hopeTheme({
-  hostname: "https://help.appeditor.ir",
+  hostname: "https://appeditor-docs.netlify.app",
 
   /*author: {
     name: "اپ‌ادیتور",
