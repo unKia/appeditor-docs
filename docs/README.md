@@ -11,4 +11,3 @@ actions:
   link: ./get-started/appeditor/
   type: primary
 ---
-# خانه
