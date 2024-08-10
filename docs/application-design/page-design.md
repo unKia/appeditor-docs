@@ -24,10 +24,8 @@
 <img :src="$withBase('/page-design/Screenshot.png')" class="zoom">
 </div>
 
-![An image](/page-design/test.gif)
-
 <div style="text-align: center">
-<img :src="$withBase('/page-design/test.gif')">
+<img :src="$withBase('/page-design/test2.gif')">
 </div>
 
 در تصویر زیر انواع چیدمان گروه را می‌توانید مشاهده نمایید:
