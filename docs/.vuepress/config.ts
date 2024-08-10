@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 //import { catalogPlugin } from '@vuepress/plugin-catalog'
 export default defineUserConfig({
   //base: "/appeditor-help/",
@@ -15,6 +16,7 @@ export default defineUserConfig({
     /*catalogPlugin({
       // Your options
     }),*/
+    removeHtmlExtensionPlugin()
   ],
 
   // Enable it with pwa
