@@ -1,6 +1,5 @@
 ---
 home: true
-heroImage: logo.svg
 actionText: ورود به راهنما
 actionLink: /introduction
 heroText: راهنمای اپ‌ادیتور
