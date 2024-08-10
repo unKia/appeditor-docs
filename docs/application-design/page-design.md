@@ -25,6 +25,10 @@
 </div>
 
 <div style="text-align: center">
+<img :src="$withBase('/page-design/Screenshot2.png')" class="zoom">
+</div>
+
+<div style="text-align: center">
 <img :src="$withBase('/page-design/test2.gif')">
 </div>
 
