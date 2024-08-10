@@ -1,0 +1,14 @@
+export const themeData = JSON.parse("{\"encrypt\":{\"config\":{\"/demo/encrypt.html\":[\"$2a$10$1.jxhGAg0VBKPVTL0.fo2uQeLkP/WYlDqpZj7MgLqFONHDWNDea9m\"]}},\"logo\":\"images/logo-70.png\",\"docsDir\":\"src\",\"headerDepth\":4,\"breadcrumb\":true,\"copyright\":\"کلیه حقوق محفوظ است\",\"displayFooter\":true,\"locales\":{\"/\":{\"metaLocales\":{\"toc\":\"در این صفحه\",\"readingTime\":\"مدت مطالعه\",\"prev\":\"قبلی\",\"next\":\"بعدی\",\"category\":\"دسته\",\"tag\":\"تگ\",\"print\":\"چاپ\"},\"routeLocales\":{\"back\":\"برگشت\",\"home\":\"صفحه اصلی\",\"openInNewWindow\":\"در پنجره جدید باز شود\",\"notFoundTitle\":\"صفحه یافت نشد!\",\"notFoundMsg\":[\"دوباره تلاش کن!\"]},\"outlookLocales\":{\"darkmode\":\"روشنایی\"},\"navbar\":[{\"text\":\"سایت\",\"link\":\"https://appeditor.ir\"},{\"text\":\"ورود به پنل\",\"link\":\"https://panel.appeditor.ir\"}],\"sidebar\":{\"/\":[\"/get-started/appeditor\",{\"text\":\"شروع\",\"collapsible\":true,\"children\":[\"/get-started/register\",\"/get-started/first-app\"]},{\"text\":\"طراحی اپلیکیشن\",\"collapsible\":true,\"children\":[\"/application-design/design-environment\",\"/application-design/page-design\",\"/application-design/widgets/introduction\",{\"text\":\"انواع ویجت\",\"collapsible\":true,\"children\":[\"/application-design/widgets/pdf\",\"/application-design/widgets/tapsell\",\"/application-design/widgets/rss-reader\",\"/application-design/widgets/favorites\",\"/application-design/widgets/tab\",\"/application-design/widgets/form\",\"/application-design/widgets/slide\"]},\"/application-design/menu-design\",\"/application-design/iab-items\",\"/application-design/templates\",\"/application-design/icons\",\"/application-design/events\",\"/application-design/actions\",\"/application-design/conditions\",\"/application-design/variables/\",\"/application-design/javascript\"]},{\"text\":\"سرویس ها\",\"collapsible\":true,\"children\":[\"/services/shop-maker/\",\"/services/form-builder\",\"/services/account\",\"/services/in-app-purchase\",\"/services/online-content-update\",\"/services/update-version\",\"/services/notification\",\"/services/ads\",\"/services/wordpress\",\"/services/woocommerce\"]},{\"text\":\"ساخت و دریافت خروجی\",\"collapsible\":true,\"children\":[\"/make-application/configs\",\"/make-application/keystore\",\"/make-application/source-code\",\"/make-application/output\"]},{\"text\":\"آموزشهای متفرقه\",\"collapsible\":true,\"children\":[\"/other/how-to-embed-aparat-video\",\"/other/how-to-turn-a-site-into-an-application\"]},\"/introduction\",\"/changelog\",\"/FAQ\"]},\"rtl\":true}}}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateThemeData) {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ themeData }) => {
+    __VUE_HMR_RUNTIME__.updateThemeData(themeData)
+  })
+}
