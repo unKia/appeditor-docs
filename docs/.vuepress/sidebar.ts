@@ -100,6 +100,5 @@ export default sidebar({
     },
     '/introduction',
     '/changelog',
-    '/FAQ',
   ]
 });
