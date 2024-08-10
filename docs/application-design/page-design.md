@@ -21,7 +21,7 @@
 + چیدمان جدولی
 
 <div style="text-align: center">
-<img :src="$withBase('/page-design/Screenshot.png')" width="450" class="zoom">
+<img :src="$withBase('/page-design/Screenshot.png')" class="zoom">
 </div>
 
 در تصویر زیر انواع چیدمان گروه را می‌توانید مشاهده نمایید:
