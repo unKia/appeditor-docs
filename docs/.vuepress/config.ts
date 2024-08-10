@@ -7,7 +7,7 @@ export default defineUserConfig({
   //base: "/appeditor-help/",
   base: "/",
   lang: "fa-IR",
-  title: "راهنمای برنامه ساز اپ‌ادیتور",
+  title: "راهنمای اپ‌ادیتور",
   description: "ساخت اپلیکیشن بدون برنامه‌نویسی",
   head:[
 
