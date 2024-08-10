@@ -1,5 +1,13 @@
 # معرفی اپ ادیتور
 
+<div style="text-align: center">
+<img :src="$withBase('/page-design/Screenshot2.png')" class="zoom">
+</div>
+
+<div style="text-align: center">
+<img :src="$withBase('/page-design/test3.gif')">
+</div>
+
 اپ ادیتور یک [اپلیکیشن ساز آنلاین](https://appeditor.ir) و قدرتمند است که به کمک آن می توان خیلی سریع یک اپلیکیشن زیبا و باکیفیت طراحی کرد.
 برای ساخت اپ در این برنامه ساز نیازی به برنامه نویسی نیست و کار کردن با آن آسان است.
  

@@ -20,22 +20,6 @@
 + چیدمان لایه‌ای
 + چیدمان جدولی
 
-<div style="text-align: center">
-<img :src="$withBase('/page-design/Screenshot.png')" class="zoom">
-</div>
-
-<div style="text-align: center">
-<img :src="$withBase('/page-design/Screenshot2.png')" class="zoom">
-</div>
-
-<div style="text-align: center">
-<img :src="$withBase('/page-design/test2.gif')">
-</div>
-
-<div style="text-align: center">
-<img :src="$withBase('/page-design/test3.gif')">
-</div>
-
 در تصویر زیر انواع چیدمان گروه را می‌توانید مشاهده نمایید:
   
 <div style="text-align: center">
