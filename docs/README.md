@@ -17,7 +17,6 @@ features:
     details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
   - title: Performant
     details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: اپ‌ادیتور
 ---
 # خانه
-
-[بازگشت به خانه](/)
