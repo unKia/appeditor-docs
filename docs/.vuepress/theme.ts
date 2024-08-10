@@ -20,6 +20,7 @@ export default hopeTheme({
 
   lastUpdated: false,
   contributors: false,
+  pageInfo: false,
 
   docsDir: "src",
   headerDepth:4,
