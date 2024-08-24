@@ -8,7 +8,7 @@ tagline: ساخت اپلیکیشن بدون نیاز به برنامه نویس�
 actions:
 - text: ورود به راهنما
   icon: lightbulb
-  link: ./get-started/appeditor/
+  link: ./get-started/introduction/
   type: primary
 ---
 # خانه
