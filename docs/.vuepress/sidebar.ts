@@ -6,7 +6,6 @@ export default sidebar({
     '/get-started/appeditor',
     {
       text: 'شروع',
-      icon: "solar:document-bold-duotone",
       //icon: "tip",
       // optional, link of group title
       //path: "/get-started/",

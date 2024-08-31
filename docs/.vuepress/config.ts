@@ -1,6 +1,5 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { hopeTheme } from "vuepress-theme-hope";
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension'
 
 //import { catalogPlugin } from '@vuepress/plugin-catalog'
@@ -13,10 +12,7 @@ export default defineUserConfig({
   head:[
 
   ],
-  theme: hopeTheme({
-    // keywords: "iconify", "fontawesome", "fontawesome-with-brands"
-    iconAssets: "iconify",
-  }),
+  theme,
   plugins: [
     /*catalogPlugin({
       // Your options
